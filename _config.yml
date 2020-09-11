@@ -1,11 +1,11 @@
 # Site settings
 author: Kenny Hollaway
-title: 
+title: Kenny's Blog
 header-img: img/home-bg.png
 email: hollawaykenny007@gmail.com
 copyright_name: Kenny Hollaway
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Lets learn code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  KennyHollaway
